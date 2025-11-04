@@ -15,7 +15,7 @@ export default function handler(req, res) {
         key: 'csp_MoonTV',
         name: '🌙 MoonTV',
         type: 3,
-        api: 'https://moon-lknuuxlwj-smithteslas-projects.vercel.app/api/moontv',
+        api: 'https://tv.wawayoyo.top/api/moontv', // ✅ 已改为你的正式域名
         searchable: 1,
         quickSearch: 1,
         filterable: 1
